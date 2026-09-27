@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.runtime/
+*.zip
+*.log
+*.wld*
+*.bak
+serverconfig.txt
